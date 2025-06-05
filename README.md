@@ -11,9 +11,19 @@ I'm an experienced DevOps Engineer with a strong passion for building, automatin
 - 🌱 **Looking to Collaborate on:** DevOps
 - 💬 **Ask Me About:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, and more!
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=himanshucelerispay21" alt="himanshucelerispay21" /></p>
+## 💼 Work Highlights
 
-## 🛠️ Technologies & Tools
+- 🚀 Built CI/CD pipelines using GitLab CI, CircleCI & TeamCity for microservices in a private cloud.
+- 💻 Implemented automated deployment using Ansible, Terraform, and Docker for a cloud-based application.
+- 🔄 Migrated monolithic architecture to microservices for improved scalability and maintainability.
+- 📈 Improved application performance by optimizing database queries and implementing caching.
+- 🚫 Ensured high availability by implementing load balancing, auto-scaling, and failover.
+- ☁️ Created highly available and scalable infrastructure using cloud-native solutions and automation.
+- 🔐 Automated secrets management using HashiCorp Vault + Consul.
+- 📦 Managed deployments on AWS using Terraform and Helm with monitoring via ELK + Site24x7.
+- 🛡️ Implemented security audits using Nessus, Trivy, Wazuh, and CrowdStrike Falcon.
+
+## 🛠️ Tools & Technologies 
 
 ### Scripting Languages
 [![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash&logoColor=FFEA00)](https://www.gnu.org/software/bash/)
@@ -68,8 +78,6 @@ I'm an experienced DevOps Engineer with a strong passion for building, automatin
 [![Qualys](https://img.shields.io/badge/-Qualys-black?style=for-the-badge&logo=qualys&logoColor=47BDF7)](https://www.qualys.com/)
 
 
-
-
 ### Databases
 [![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-black?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
@@ -81,11 +89,6 @@ I'm an experienced DevOps Engineer with a strong passion for building, automatin
 [![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=005571)](https://www.elastic.co/elasticsearch/)
 [![Etcd](https://img.shields.io/badge/-etcd-black?style=for-the-badge&logo=etcd&logoColor=0A73BA)](https://etcd.io/)
 
-
-## 📈 GitHub Stats
-
-[![Himanshu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=himanshucelerispay21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/himanshucelerispay21/github-readme-stats#gh-dark-mode-only)
-[![Himanshu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=himanshucelerispay21&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/himanshucelerispay21/github-readme-stats#gh-light-mode-only)
 
 ## 📫 Connect with Me
 
